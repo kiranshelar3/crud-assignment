@@ -1,0 +1,29 @@
+Create simple CRUD operation app in python - django.
+
+•completed the assignment by using django and performed operation by orm. 
+editor used vs code.
+
+superuser id.
+username = admin
+password = kiran123
+
+
+
+
+
+Details are:
+1.Create user profile table.	(Done)
+•Name (string)
+•Age (int)
+•Hight (float)
+•Mobile number (int)
+
+2. Create HTML form and post data on submit button or use ajax call.	(Done)
+3. Insert data in profile table						(Done)	
+4. Read all data from profile table and display on HTML page.		(Done)
+5. Update mobile number using row id.					(Done)
+6. Delete record using mobile number					(Done)
+
+
+ 
+
